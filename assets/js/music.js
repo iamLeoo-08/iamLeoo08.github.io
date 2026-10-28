@@ -1,7 +1,5 @@
 const songs = [
-    "blue - yung kai.mp3",
-    "Van Gogh (feat. Ashley Alisha).mp3",
-    "Winter blossom (feat. Ashley Alisha & nobody likes you pat).mp3"
+    "「 Lyrics 」Tình Mình Lạ Kì - LiL Z - 𝗌𝗈𝗈𝗅𝗒.mp3",
 ];
 
 let currentSongIndex = 0;

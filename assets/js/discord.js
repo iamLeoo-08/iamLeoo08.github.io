@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const userId = "954235418621120554"; // Discord ID của bạn
+    const userId = "1562881347960311880"; // Discord ID của bạn
 
     const discordAvatar = document.getElementById('discord-avatar');
     const discordUsername = document.getElementById('discord-username');

@@ -8,11 +8,11 @@ document.addEventListener('DOMContentLoaded', function() {
   var closeButton = document.getElementById('close-button');
 
   var terminalTextContent = [
-      "User: ANH PHUDZAII",
+      "User: Em Leoo Nè",
       "IP: Loading...",
       "System: Loading...",
-      "Bio Loaded",
-      "Press Enter To Continue",
+      "Thanh Hau",
+      "hí nhô baby :3",
   ];
   var currentIndex = 0;
 
